@@ -19,7 +19,13 @@ const dataabout = {
     title: "Abit about my self",
     aboutme: "Since I was a child I was attracted to everything related to technology, first I learned everything related to hardware, assembling, disassembling, fixing, when I met my first programming language Python and I loved it. In the 4 semesters I studied mechatronics I learned more about Python and started to learn about machine learning. Along the way I learned more and more and used libraries like numpy, scikit-learn, tensorflow, etc.",
 };
-
+const worktimeline = [{
+        jobtitle: "Computer maintenance",
+        where: "Freelancer",
+        date: "2018-",
+    },
+    
+];
 
 const skills = [{
         name: "Python",
@@ -141,6 +147,7 @@ export {
     meta,
     dataabout,
     dataportfolio,
+    worktimeline,
     skills,
     services,
     introdata,
