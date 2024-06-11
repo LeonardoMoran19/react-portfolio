@@ -16,25 +16,10 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "Abit about my self",
     aboutme: "Since I was a child I was attracted to everything related to technology, first I learned everything related to hardware, assembling, disassembling, fixing, when I met my first programming language Python and I loved it. In the 4 semesters I studied mechatronics I learned more about Python and started to learn about machine learning. Along the way I learned more and more and used libraries like numpy, scikit-learn, tensorflow, etc.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
-];
+
 
 const skills = [{
         name: "Python",
