@@ -11,15 +11,15 @@ const introdata = {
         second: "I code cool things",
         third: "I develop machine learning models",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Data scientist recently graduated from 'Henry'",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "Since I was a child I was attracted to everything related to technology, first I learned everything related to hardware, assembling, disassembling, fixing, when I met my first programming language Python and I loved it. In the 4 semesters I studied mechatronics I learned more about Python and started to learn about machine learning. Along the way I learned more and more and used libraries like numpy, scikit-learn, tensorflow, etc.",
 };
-const worktimeline = [{
+/* const worktimeline = [{
         jobtitle: "Designer of week",
         where: "YAdfi",
         date: "2020",
@@ -34,41 +34,41 @@ const worktimeline = [{
         where: "ALquds",
         date: "2019",
     },
-];
+];*/
 
 const skills = [{
         name: "Python",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
+        name: "Scikit-learn",
         value: 80,
     },
     {
-        name: "React",
+        name: "Tensorflow",
+        value: 70,
+    },
+    {
+        name: "Pytorch",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "PowerBI",
         value: 85,
-    },
+    },   
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Machine learning",
+        description: "Develop, train, and evaluate machine learning models for linear regressions, decisiontrees, classifiers, etc.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Data science",
+        description: "ETL and EDA processes, API development, deployment with frameworks such as FastAPI and more.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Data analyst",
+        description: "Creation and analysis of dashboards, measurement and graphing of KPIs, etc.",
     },
 ];
 
