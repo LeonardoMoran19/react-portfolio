@@ -64,7 +64,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://i.imgur.com/YX2eg7E.jpg",
+        img: "https://i.imgur.com/jXzhrV0.jpeg",
         description: "Game recommendation system by user",
         link: "https://pi-mlops-f52g.onrender.com/docs#/default/recomendacion_juego_GameRecommendation_get",
     },
