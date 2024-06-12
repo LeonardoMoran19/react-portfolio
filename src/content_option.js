@@ -64,9 +64,9 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://imgur.com/YX2eg7E",
+        description: "Game recommendation system by user",
+        link: "https://pi-mlops-f52g.onrender.com/docs#/default/recomendacion_juego_GameRecommendation_get",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
@@ -127,9 +127,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "leomleon19@gmail.com",
+    //YOUR_FONE: "(593)978-4567",
+    description: "Contact me to solve any doubt.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -138,10 +138,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/LeonardoMoran19",
+    facebook: "https://www.facebook.com/leonardo.moranleon",
+    linkedin: "https://www.linkedin.com/in/leomleon/",
+    twitter: "https://x.com/Leomleon_19",
 };
 export {
     meta,
