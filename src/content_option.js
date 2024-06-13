@@ -74,11 +74,11 @@ const dataportfolio = [{
         link: "https://github.com/LeonardoMoran19/PI_DA",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.imgur.com/re9j7sD.png",
+        description: "Analysis of user opinions and recommendations on Yelp and Google Maps. NLP and machine learning techniques will be used to analyze user reviews, identify trends and patterns, and generate personalized recommendations.",
+        link: "https://www.linkslist.app/MEJfNKS",
     },
-    {
+    /*{
         img: "https://picsum.photos/400/600/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
@@ -123,7 +123,7 @@ const dataportfolio = [{
         img: "https://picsum.photos/400/700/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    },
+    },*/
 ];
 
 const contactConfig = {
