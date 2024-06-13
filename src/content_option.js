@@ -69,9 +69,9 @@ const dataportfolio = [{
         link: "https://pi-mlops-f52g.onrender.com/docs#/default/recomendacion_juego_GameRecommendation_get",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.imgur.com/e1j65YF.jpeg",
+        description: "Analysis project to generate information that will allow local authorities to take measures to reduce the number of road fatalities. Dashboard designed on Power BI.",
+        link: "https://github.com/LeonardoMoran19/PI_DA",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
